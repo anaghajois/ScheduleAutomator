@@ -1,0 +1,3 @@
+import mechanizer
+
+mechanizer.startMechanizing()
